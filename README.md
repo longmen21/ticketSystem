@@ -1,5 +1,5 @@
 #TicketSystem is an open-source MIS
-<br>Functions as follows:
+<br>Functions as follows:<br>
 1.Questioners make requests or advices to our websites.<br>
 2.Auditors check the requests over and decide whether deliver it to the admin or not.<br>
 3.Admin get the requests and offer the solvements back to the questioners<br>
